@@ -1,0 +1,36 @@
+{
+  "blogs": [
+    {
+      "title": "Fitness Blog",
+      "description": "Get inspired with fitness and health blog. Health is very important for us. stay healthy",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dslhpfxsr/image/upload/v1667392063/btaxnk0xuziusgd7f2b2.png",
+      "date": "11/02/2022",
+      "id": 1
+    },
+    {
+      "title": "Yoga blog",
+      "description": "Yoga offers many benefits for the mind and body, but getting started is the hardest part. Try these beginner yoga poses for starters.",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dslhpfxsr/image/upload/v1668236294/kcdea22ewpmgddkcobe3.png",
+      "date": "11/12/2022",
+      "id": 3
+    },
+    {
+      "title": "Sports Blog",
+      "description": " The precise definition of what separates a sport from other leisure activities varies between sources. The closest to an international agreement on a definition is provided by SportAccord, …",
+      "category": "Sports",
+      "imageUrl": "http://res.cloudinary.com/dslhpfxsr/image/upload/v1668590739/dgxyhcxvz4skbij85siy.png",
+      "date": "11/16/2022",
+      "id": 4
+    },
+    {
+      "title": "Fashion",
+      "description": "In its most common use, the term fashion refers to the current expressions on sale through the fashion industry. The global fashion industry is a product of the modern age. In the Western world, tailoring has since medieval times been controlled by guilds, but with the emergence of industrialism, the power of the guilds was undermined.",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/dslhpfxsr/image/upload/v1668614827/mbvyt3hy8nfavmflvsn2.png",
+      "date": "11/16/2022",
+      "id": 5
+    }
+  ]
+}
